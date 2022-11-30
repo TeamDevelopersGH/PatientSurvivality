@@ -2,7 +2,7 @@
 
 The predictors of in-hospital mortality for admitted patients remain poorly characterized. We aimed to develop and validate a prediction model for all-cause in-hospital mortality among admitted patients.
 
-Data Description:
+**Data Description:**
 
 ID_Patient_Care_Situation: Care situation of a patient during treatment
 Diagnosed_Condition: The diagnosed condition of the patient
